@@ -18,6 +18,12 @@ body {
 }
 .card-body {
   text-align: center;
+
+}
+#supercluster {
+  float: right;
+  text-align: right;
+  margin-bottom: 5%;
 }
 
 
