@@ -25,7 +25,27 @@ body {
   text-align: right;
   margin-bottom: 5%;
 }
-
+.parallax{
+  background-image: url("/images/lights.jpg");
+  min-height: 200px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+.lapi{
+  height: 30%;
+  width: 30%;
+  float: right;
+}
+.description{
+float: left;
+width: 30%;
+margin-left: 3rem;
+margin-top: 3rem;
+}
 
 
 
